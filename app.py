@@ -886,7 +886,7 @@ st.markdown("""
 Hi! I'm **Ahmed Hasnain**, a data scientist passionate about Machine Learning, NLP, and building intelligent solutions.  
 
 ## 📧 Gmail:  
-ahmedhasnainmoria@gmail.com  
+ahmedhasnainmoria1@gmail.com  
   
 
 ### 🌐 Connect with Me:  
