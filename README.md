@@ -2,7 +2,6 @@
 
 🚀 **An interactive Streamlit-based portal** designed for data scientists to explore datasets, build models, analyze insights, and share results efficiently.
 
-![Portal Preview](https://your-image-link.com) *(Optional: Add a screenshot of your app here.)*
 
 ---
 
